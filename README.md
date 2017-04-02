@@ -7,3 +7,4 @@ Just getting used to working with Git and Github.
 It's an amazing experience.
 I like python, artificial intelligence, and pi.z.z.a .
 
+GitHub can be a bit confusing at times.
